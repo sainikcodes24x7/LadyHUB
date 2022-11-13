@@ -41,7 +41,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <a class="navbar-brand" href="#">
-                    <img src="img/navbar.jpeg" class="img-fluid" style="width:80px; height:80px">
+                    <img src="images/icon1.png" class="img-fluid" style="width:80px; height:80px">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -80,8 +80,8 @@
             </div>
         </nav>
     </header>
-    <div id="home-content" class="my-2">
-        <h1 style="font-size:50px; color:black; margin-left:auto;">Diet Plans</h1>
+    <div id="home-content" class="my-5">
+        <h1 style="font-size:50px; color:black; margin-left:40%;">DIET PLANS</h1>
     </div>
     <div id="content-home" style="display:flex;flex-direction:column;width:50vw;margin:0 25rem; margin-bottom:5rem;">
         <div id='doc-results'>
