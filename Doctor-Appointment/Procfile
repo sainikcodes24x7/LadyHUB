@@ -1,1 +1,0 @@
-web: gunicorn webappexample.wsgi --log-file -
