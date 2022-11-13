@@ -72,7 +72,7 @@
     <div class="d-flex justify-content-center align-items-center" style="height:50vh;">
 
       <div class="buttons-div my-5 py-5" >
-        <button type="button" style="border-radius: 10px;" class="btns"><a href="index.php" style="color: white;text-decoration:none;">Physical Health Checkup</a></button>
+        <button type="button" style="border-radius: 10px;" class="btns"><a href="./healthChecker/index.php" style="color: white;text-decoration:none;">Physical Health Checkup</a></button>
         <button type="button" style="border-radius: 10px;" class="btns"><a href="MentalHealthForm.php" style="color: white;text-decoration:none;">Mental Health Checkup</a></button> 
       </div>
     </div>
