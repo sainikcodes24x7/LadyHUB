@@ -55,12 +55,12 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 
 ## Screenshots
 
-<img src="./Screenshots/Sc1.jpeg" width="300">
-<img src="./Screenshots/sc2.jpeg" width="300">
-<img src="./Screenshots/sc3.jpeg" width="300">
-<img src="./Screenshots/sc4.jpeg" width="300">
-<img src="./Screenshots/sc5.jpeg" width="300">
-<img src="./Screenshots/sc6.jpeg" width="300">
+<img src="./Screenshots/Sc1.jpg" width="300">
+<img src="./Screenshots/sc2.jpg" width="300">
+<img src="./Screenshots/sc3.jpg" width="300">
+<img src="./Screenshots/sc4.jpg" width="300">
+<img src="./Screenshots/sc5.jpg" width="300">
+<img src="./Screenshots/sc6.jpg" width="300">
 
 
 ## Our Team
