@@ -18,16 +18,13 @@ Our idea is to build a website which serves as a complete guide to a women's men
 * Menstrual Cycle Tracker
 * Diet Planner
 * Calendar Alerts
-* Blogs
+* Security
 * Health and Fitness Events
 * Community Forum
 * Expert Consultancy
 * Video Chat with Experts
-* Medical History
 * Shop Health, Fitness and Wellness Products
 
-
-## Technology Stack
 
 ### Web Technology
 
@@ -48,9 +45,9 @@ Our idea is to build a website which serves as a complete guide to a women's men
 
 <!-- - Download & install [Xampp](https://www.apachefriends.org/download.html)
 - Download the Zip or clone the repository
-``` bash
+ bash
 git clone https://github.com/SanjeebNath382/sashakti.git
-```
+
 - Go to the directory where Xampp is installed. For eg. C:\xampp\htdocs
 - Copy the project folder and paste it in the address mentioned above.
 - Launch any browser window and search localhost/sashakti.
@@ -58,19 +55,19 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 
 ## Screenshots
 
-<img src="./Screenshots/Screenshot 2022-05-29 091437.png" width="300">
-<img src="./Screenshots/Screenshot 2022-05-29 091651.png" width="300">
-<img src="./Screenshots/Screenshot 2022-05-29 091618.png" width="300">
-<img src="./Screenshots/Screenshot 2022-05-29 091549.png" width="300">
-<img src="./Screenshots/Screenshot 2022-05-29 091740.png" width="300">
+<img src="./Screenshots/Sc1.jpeg" width="300">
+<img src="./Screenshots/sc2.jpeg" width="300">
+<img src="./Screenshots/sc3.jpeg" width="300">
+<img src="./Screenshots/sc4.jpeg" width="300">
+<img src="./Screenshots/sc5.jpeg" width="300">
+<img src="./Screenshots/sc6.jpeg" width="300">
 
 
 ## Our Team
-- Sagarika Mondol
 - Sainik Khaddar
-- Adwaita Raj Modak
-- Anwesha Chakraborty
+- Uttam Kanti Dutta
+- Disha Das
+- Soham Chaudhuri
 
 
-
-### More power to women!
+### More power to women!
